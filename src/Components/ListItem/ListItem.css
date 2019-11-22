@@ -1,0 +1,7 @@
+.listItemImage{
+    cursor: pointer;
+    width: 50px;
+}
+.listItemButton_hidden{
+    display: none;
+}
